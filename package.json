@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-openagenda",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "OpenAgenda MCP.",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-bacc203ff1c20285210f3919db0ead2a0a2f8e175367c626db507912cb1ffaf8",
-    "sourceCommit": "97740c6ee04c8acbfe7dddcacfde9e88ff2b9ca0"
+    "sourceHash": "v1-b8c192eeae22fe56fa3db9ec7643e6d7e1d7486b7988e911e524f1c42ebc46b3",
+    "sourceCommit": "f54ad77e789f27fe393978f9c080b5b18c87bb4f"
   }
 }
